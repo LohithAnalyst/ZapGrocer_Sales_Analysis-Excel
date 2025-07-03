@@ -47,7 +47,7 @@ An interactive end-to-end dashboard built in **Microsoft Excel** to analyze and 
 - Indicates strong market potential in semi-urban/rural areas.
 
 ### 🧃 Fat Content Preference
-- **Regular fat products** sell significantly more (~$776K) than low fat (~$425K).
+- **Regular fat products** sell significantly more ($776K) than low fat ($425K).
 - Suggests a preference for taste/convenience over health-conscious options.
 
 ### 🥬 Item Type Performance
