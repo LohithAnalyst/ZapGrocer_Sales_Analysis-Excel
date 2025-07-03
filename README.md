@@ -1,8 +1,8 @@
-# 📊 Blinkit Outlet Sales Analysis Dashboard
+# 📊 ZapGrocer Outlet Sales Analysis Dashboard
 
-An interactive end-to-end dashboard built in **Microsoft Excel** to analyze and visualize sales, ratings, and outlet-level performance for **Blinkit – India's Last Minute App**.
+An interactive end-to-end dashboard built in **Microsoft Excel** to analyze and visualize sales, ratings, and outlet-level performance for **ZapGrocer – India’s Early Shopper’s Choice**.
 
-![Dashboard Screenshot](https://github.com/LohithAnalyst/Blinkit_Sales_Analysis-Excel-/blob/546a334ec337234e5117731111f4ff567037372d/Screenshot%20Blinkit_snap.png)
+![Dashboard Screenshot](https://github.com/LohithAnalyst/Blinkit_Sales_Analysis-Excel-/blob/8216e7b63eec26a5b3274d948da2f8d05c133048/Screenshot%20ZapGrocer_snap.png)
 
 ---
 
