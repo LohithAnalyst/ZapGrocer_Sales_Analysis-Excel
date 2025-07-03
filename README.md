@@ -38,7 +38,8 @@ An interactive end-to-end dashboard built in **Microsoft Excel** to analyze and 
 
 ### 🏪 Outlet Size Contribution
 - **Medium-sized outlets** lead with **42%** of sales (~$5.07M).
-- **High-size outlets**: 37% (~$4.44M), **Small outlets**: 21% (~$2.48M).
+- **High-size outlets**: 37% (~$4.44M),
+- **Small outlets**: 21% (~$2.48M).
 - Indicates **medium outlets are most revenue-efficient**.
 
 ### 📍 Outlet Location Tier
@@ -46,7 +47,7 @@ An interactive end-to-end dashboard built in **Microsoft Excel** to analyze and 
 - Indicates strong market potential in semi-urban/rural areas.
 
 ### 🧃 Fat Content Preference
-- **Regular fat products** sell significantly more (~$776K) than low-fat (~$425K).
+- **Regular fat products** sell significantly more (~$776K) than low fat (~$425K).
 - Suggests a preference for taste/convenience over health-conscious options.
 
 ### 🥬 Item Type Performance
